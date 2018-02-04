@@ -1,1 +1,2 @@
+Line from Browser.
 This line added from Notepad++.
